@@ -30,9 +30,15 @@ body {
 .main {
     border: 1px solid red;
 }
-.footer{
+.footer {
     border: 1px solid red;
 }
 .nav-link:hover {
     cursor: pointer;
+}
+.section {
+    color: rgb(22, 19, 18);
+}
+.section-title {
+    color: red;
 }
