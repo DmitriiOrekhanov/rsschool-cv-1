@@ -3,9 +3,9 @@
      +Phone: +380664548869
      +E-mail: vladymyrleonov@gmail.com
      +Github: [VladymyrL](https://github.com/VladymyrL)
-##*Briefly About Myself:
+##*Summary:
     
-##*Skills and Proficiency:
+##*Skills:
     +HTML5, CSS3
     +JavaScript Basics
     +Git, GitHub
@@ -13,7 +13,7 @@
     +Adobe Photoshop, Illustrator
     +CorelDraw
 
-##*Code example:
+##*Code:
     ```
      function sum(a, b) {
             return a + b;
